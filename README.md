@@ -18,7 +18,9 @@ Vous pouvez vous abonner aux notifications de certaines villes au lieu d'héberg
 
 Il faut ensuite décendre sur la page et cliquer sur `subscribe on this device`
 
-## Installation
+## Utiliser sa propre instance
+
+### Installation
 
 Il faut commencer par cloner le repo git :
 ```
@@ -35,7 +37,7 @@ on peut ensuite lancer le script de la manière suivante :
 python turbodose.py
 ```
 
-## Ajouter une nouvelle ville :
+### Ajouter une nouvelle ville :
 Le service utilise notify-run. Pour ajouter une nouvelle ville il faut créer un nouveau channel en allant sur [notify.run](https://notify.run) puis cliquer sur `create a channel`.  Vous pouvez ensuite cliquer sur `subscribe on this device` pour vous abonner aux futures notifications. Copiez l'id du channel ( `Your new channel is called <id du channel>.`) et ajoutez le dans le fichier `city_config.txt` de la manière suivante :
 ```json
 {  
@@ -48,6 +50,6 @@ Le service utilise notify-run. Pour ajouter une nouvelle ville il faut créer un
 
 ⚠️ Ne pas oublier la virgule après chaque id, **sauf** pour la dernière ville !
 
-## Retrouver l'url via l'id
+### Retrouver l'url via l'id
 
 Si vous avez perdu l'url pour obtenir les notification, celle ci est : `https://notify.run/c/<id du channel>`
