@@ -2,9 +2,9 @@
 
 Script python pour surveiller les rendez-vous disponnibles pour la vaccination Covid19 sur Doctolib.
 
-**Important**: les notifications turbodose fonctionnent grâce à notify.run. Les notifications fontionnent sur Chrome (desktop et android) et firefox (desktop et android), mais a priori pas sur iOS.
+**Important**: les notifications turbodose fonctionnent grâce à notify.run. Les notifications fontionnent sur Chrome (desktop et android) et firefox (desktop et android), mais _a priori_ pas sur iOS.
 
-**Important 2**: Lorsque vous recevrez une notification, **si vous vous êtes abbonés depuis chrome** vous pouvez cliquer sur la notification qui vous ammènera directement à la page doctolib du 1er rdv dispo !
+**Important 2**: Lorsque vous recevrez une notification, **si vous vous êtes abonnés depuis chrome** vous pouvez cliquer sur la notification qui vous ammènera directement à la page doctolib du 1er rdv dispo !
 
 ## 🌐 Instances déjà existantes 
 
@@ -16,7 +16,7 @@ Vous pouvez vous abonner aux notifications de certaines villes au lieu d'héberg
 | Nantes | https://notify.run/c/EbfTl4vGdkENQgqF |
 | Lyon   | https://notify.run/c/iNRV2oXZaDNBwv7V |
 
-Il faut ensuite déscendre sur la page et cliquer sur `subscribe on this device`
+Il faut ensuite descendre sur la page et cliquer sur `subscribe on this device`
 
 ## 🏠 Utiliser sa propre instance
 
