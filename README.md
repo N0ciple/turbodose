@@ -16,7 +16,7 @@ Vous pouvez vous abonner aux notifications de certaines villes au lieu d'héberg
 | Nantes | https://notify.run/c/EbfTl4vGdkENQgqF |
 | Lyon   | https://notify.run/c/iNRV2oXZaDNBwv7V |
 
-Il faut ensuite décendre sur la page et cliquer sur `subscribe on this device`
+Il faut ensuite déscendre sur la page et cliquer sur `subscribe on this device`
 
 ## 🏠 Utiliser sa propre instance
 
